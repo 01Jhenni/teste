@@ -1,3 +1,3 @@
 plotly
 streamlit
-win32
+pywin32
